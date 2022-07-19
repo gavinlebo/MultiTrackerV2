@@ -1,5 +1,5 @@
 # MultiTrackerV2
-A simple class/object to implement multiple trackers for multiple objects in OpenCV. Opposed to the built in MultiTracker class, MultiTrackerV2 is compatible with all trackers available in OpenCV..
+A simple class/object to implement multiple trackers for multiple objects in OpenCV. Opposed to the built in MultiTracker class, MultiTrackerV2 is compatible with all trackers available in OpenCV.
 
 ## Usage
 First, place the MultiTrackerV2.py file in the directory with your working file, then import it.
